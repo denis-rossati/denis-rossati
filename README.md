@@ -32,6 +32,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> 
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code> 
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code> 
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
 </p>
@@ -45,6 +46,7 @@
 <p align="center">
   <img heigth="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-rossati&theme=vue&show_icons=true" />
 </p>
+
 <p align="center">As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub.</a></p>
 
 ---
