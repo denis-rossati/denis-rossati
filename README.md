@@ -3,8 +3,8 @@
 <a href="https://ibb.co/pnMwdZ4"><img src="https://i.ibb.co/QXTQMnY/Sem-t-tulo-1.gif" border="0"></a>
 
 
-### A little about me
-
+## A little about me
+ <img src="https://thumbs.gfycat.com/MeagerLonelyBluebreastedkookaburra-max-1mb.gif" align="right" alt="GIF"> <br>
 I'm:
  
 - 📚 Currently studying and working at [Trybe](https://www.betrybe.com/) as a Summer!! :DDD
@@ -13,9 +13,13 @@ I'm:
 - 👨‍🏫 Wishing I had a mentor in Javascript.
 - 📧 Wanting to talk to you (we can chat on [LinkedIn](https://www.linkedin.com/in/denis-rossati/) or [Twitter](twitter))!
 - 📚 Right now I'm learning React. :D
-- 🇧🇷 Brazilian! ;)
+- 🇧🇷 Brazilian! ;) 
 
-### <p align="center">Tools</p>
+<br>
+
+---
+
+## <p align="center">Tools</p>
 
 <p align="center">I have good knowledge in the following topics:</p>
 
