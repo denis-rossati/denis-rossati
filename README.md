@@ -16,7 +16,6 @@
 - 👨‍💻 Looking to be a front-end developer.
 - 🏳️‍🌈 LGBTQIA+!!
 - 👨‍🏫 Wishing I had a mentor in Javascript.
-- 📧 Wanting to talk to you (we can chat on [LinkedIn](https://www.linkedin.com/in/denis-rossati/) or [Twitter](twitter))!
 - 📚 Right now I'm exploring a little about back-end. :D
 - 🇧🇷 Brazilian! ;) 
 
