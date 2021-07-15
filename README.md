@@ -59,17 +59,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" /><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-  <a href="" target="_blank" /><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a>
-</p>
-
-<p align="center">
-  Let's talk ;D
-</p>
-
----
-
-<p align="center">
   <img heigth="200px" src="https://github-readme-stats.vercel.app/api?username=denis-rossati&theme=vue&show_icons=true" />
 </p>
 
@@ -78,3 +67,14 @@
 </p>
 
 <p align="center">As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub.</a></p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" /><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+  <a href="" target="_blank" /><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a>
+</p>
+
+<p align="center">
+  Let's talk ;D
+</p>
