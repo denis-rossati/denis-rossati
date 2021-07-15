@@ -58,6 +58,29 @@
 
 ---
 
+## <p align="center">Contact me :D</p>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+ <a href="https://twitter.com/denis_rossati" target="_blank" >
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://t.me/Dpdkekdmdk" target="_blank" >
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+ </a>
+ <a href="https://discord.com/users/828752326001033276" target="_blank" >
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+ </a>
+</p>
+
+<p align="center">
+  Let's talk ☕👁️👄👁️💅
+</p>
+ 
+---
+
 <p align="center">
   <img heigth="200px" src="https://github-readme-stats.vercel.app/api?username=denis-rossati&theme=vue&show_icons=true" />
 </p>
@@ -69,12 +92,3 @@
 <p align="center">As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub.</a></p>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" /><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-  <a href="" target="_blank" /><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a>
-</p>
-
-<p align="center">
-  Let's talk ;D
-</p>
