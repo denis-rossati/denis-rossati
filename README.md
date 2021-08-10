@@ -30,7 +30,7 @@
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   </a>
   <a href="https://github.com/denis-rossati" target="_blank">
-   <code><img height="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
+   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
@@ -52,6 +52,9 @@
   </a>
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
+  </a>
+   <a href="https://www.mysql.com/" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
   </a>
 </p>
 
