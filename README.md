@@ -16,7 +16,7 @@
 - 👨‍💻 Looking to be a front-end developer.
 - 🏳️‍🌈 LGBTQIA+!!
 - 👨‍🏫 Wishing I had a mentor in Javascript.
-- 📚 Right now I'm exploring a little about back-end. :D
+- 📚 Right now I'm exploring the mongodb universe. :D
 - 🇧🇷 Brazilian! ;) 
 
 ---
