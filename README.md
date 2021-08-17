@@ -56,6 +56,9 @@
    <a href="https://www.mysql.com/" target="_blank">
    <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
   </a>
+  <a href="https://www.mongodb.com/pt-br" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  </a>
 </p>
 
 ---
