@@ -12,12 +12,12 @@
  
 <p align="center"><strong>I'm:</strong></p>
  
-- 📚 Currently studying and working at [Trybe](https://www.betrybe.com/) as a Summer!! :DDD
-- 👨‍💻 Looking to be a front-end developer.
 - 🏳️‍🌈 LGBTQIA+!!
-- 👨‍🏫 Wishing I had a mentor in Javascript.
-- 📚 Right now I'm exploring the mongodb universe. :D
-- 🇧🇷 Brazilian! ;) 
+- 📚 Currently studying and working at [Trybe](https://www.betrybe.com/)!! :DDD
+- 👨‍💻 Looking to the best developer of all.
+- 📚 Right now I'm exploring the `node.js` universe. 🚀
+- 🎯 My next big goal is to learn **Typescript**!!!
+- 🇧🇷 Also, I'm brazilian! ;) 
 
 ---
 
