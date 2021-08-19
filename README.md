@@ -9,9 +9,7 @@
 <img src="https://thumbs.gfycat.com/MeagerLonelyBluebreastedkookaburra-max-1mb.gif" align="right" alt="GIF" height="220px">
 
 <br>
- 
-<p align="center"><strong>I'm:</strong></p>
- 
+  
 - 🏳️‍🌈 LGBTQIA+!!
 - 📚 Currently studying and working at [Trybe](https://www.betrybe.com/)!! :DDD
 - 👨‍💻 Looking to the best developer of all.
