@@ -11,10 +11,11 @@
 <br>
   
 - 🏳️‍🌈 LGBTQIA+!!
-- 📚 Currently studying and working at [Trybe](https://www.betrybe.com/)!! :DDD
+- 📚 Currently studying web development at Trybe
+- 💼 And working at [Croct](https://croct.com/)!! :DDD
 - 👨‍💻 Looking to the best developer of all.
 - 📚 Right now I'm exploring the `node.js` universe. 🚀
-- 🎯 My next big goal is to learn **Typescript**!!!
+- 🎯 My next big goal is learn python!!!
 - 🇧🇷 Also, I'm brazilian! ;) 
 
 ---
