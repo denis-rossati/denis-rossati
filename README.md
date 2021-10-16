@@ -22,7 +22,74 @@
 
 ## <p align="center">Tools</p>
 
-<p align="center">I have good knowledge in the following topics:</p>
+<p align="center">I've studied / used the following in projects::</p>
+
+### Programming Languages
+
+<p align="center">
+  <a href="https://devdocs.io/javascript/" target="_blank">
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  </a>
+</p>
+
+---
+
+### Front-end:
+
+<p align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
+  </a>
+  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code> 
+  </a>
+   <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
+   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code> 
+  </a>
+   <a href="https://redux.js.org/" target="_blank">
+   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
+  </a>
+</p>
+
+---
+
+### Back-end:
+
+<p align="center">
+   <a href="https://www.mysql.com/" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  </a>
+  <a href="https://www.mongodb.com/pt-br" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  </a>
+   </a>
+  <a href="https://sequelize.org/" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></code>
+  </a>
+  <a href="https://expressjs.com/pt-br/" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+  </a>
+</p>
+
+---
+
+### Quality Assurance:
+
+<p align="center">
+  <a href="https://jestjs.io/docs/getting-started" target="_blank">
+   <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
+  </a>
+  <a href="https://mochajs.org/" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></code>
+ </a>
+</p>
+
+---
+
+### Others:
 
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
@@ -31,36 +98,16 @@
   <a href="https://github.com/denis-rossati" target="_blank">
    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code> 
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
-  </a>
-  <a href="https://devdocs.io/javascript/" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  </a>
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code> 
-  </a>
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
-   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code> 
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
-  </a>
-  <a href="https://jestjs.io/docs/getting-started" target="_blank">
-   <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
-  </a>
-   <a href="https://www.mysql.com/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-  </a>
-  <a href="https://www.mongodb.com/pt-br" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <a href="https://www.heroku.com/" target="_blank" >
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"></code>
   </a>
 </p>
 
 ---
+
 
 ## <p align="center">Contact me :D</p>
 
@@ -68,7 +115,7 @@
  <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://twitter.com/denis_rossati" target="_blank" >
+ <a href="https://twitter.com/chubby_cows" target="_blank" >
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://t.me/Dpdkekdmdk" target="_blank" >
