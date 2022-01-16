@@ -30,6 +30,9 @@
   <a href="https://devdocs.io/javascript/" target="_blank">
    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  </a>
 </p>
 
 ---
@@ -70,7 +73,7 @@
    <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></code>
   </a>
   <a href="https://expressjs.com/pt-br/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+   <code><img height="50px" src="https://camo.githubusercontent.com/4da8fbe32d03f3cd0c099af887ce14d1bff01c3325501bae56bc5ca9563548f9/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246766563746f7269666965642e636f6d253246696d61676573253246657870726573732d6a732d69636f6e2d32302e706e6726663d31266e6f66623d31"></code>
   </a>
 </p>
 
@@ -82,8 +85,8 @@
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
    <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
   </a>
-  <a href="https://mochajs.org/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></code>
+  <a href="https://docs.cypress.io/" target="_blank">
+   <code><img height="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png"></code>
  </a>
 </p>
 
