@@ -134,6 +134,7 @@
 </p>
  
 ---
+I like these cool graphics
 
 <p align="center">
   <img heigth="200px" src="https://github-readme-stats.vercel.app/api?username=denis-rossati&theme=vue&show_icons=true" />
@@ -144,5 +145,9 @@
 </p>
 
 <p align="center">As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub.</a></p>
+
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@dcb74db7-14a8-4cd4-9b2e-2d6537bd4809/b5c08511-b04e-4065-a65a-2d53731faa1c.png" height="400px"/></a>
+</p>
 
 ---
