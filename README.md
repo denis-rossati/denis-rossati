@@ -14,7 +14,7 @@
 - 📚 Currently studying web development at Trybe
 - 💼 And working at [Croct](https://croct.com/)!! :DDD
 - 👨‍💻 Looking to be a great developer to help those who I sympathize.
-- 📚 Right now I'm exploring `python` and studying computer science. 🚀
+- 📚 Right now I'm exploring `PHP` and studying computer science. 🚀
 - 🎯 My next big goal is learn python!!!
 - 🇧🇷 Also, I'm brazilian! ;) 
 
