@@ -11,11 +11,10 @@
 <br>
   
 - 🏳️‍🌈 LGBTQIA+!!
-- 📚 Currently studying web development at Trybe
+- 📚 I already studied at trybe
 - 💼 And working at [Croct](https://croct.com/)!! :DDD
-- 👨‍💻 Looking to be a great developer to help those who I sympathize.
-- 📚 Right now I'm exploring `PHP` and studying computer science. 🚀
-- 🎯 My next big goal is learn python!!!
+- 👨‍💻 Looking to be a great developer to help those who I sympathize
+- 📚 Right now I'm exploring `PHP` and I'm looking for sources of study in computer science 🚀
 - 🇧🇷 Also, I'm brazilian! ;) 
 
 ---
