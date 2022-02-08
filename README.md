@@ -11,7 +11,7 @@
 <br>
   
 - 🏳️‍🌈 LGBTQIA+!!
-- 📚 I already studied at trybe
+- 📚 I already studied at Trybe
 - 💼 And working at [Croct](https://croct.com/)!! :DDD
 - 👨‍💻 Looking to be a great developer to help those who I sympathize
 - 📚 Right now I'm exploring `PHP` and I'm looking for sources of study in computer science 🚀
