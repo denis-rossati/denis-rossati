@@ -14,7 +14,7 @@
 - 📚 I already studied at Trybe
 - 💼 And I'm working at [Croct](https://croct.com/)!! :DDD
 - 👨‍💻 Looking to be a great developer to help those who I sympathize
-- 📚 Right now I'm exploring `PHP` and I'm looking for sources of study in computer science 🚀
+- 📚 Right now I'm exploring `PHP` and studying data structures 🚀
 - 🇧🇷 Also, I'm brazilian! ;) 
 
 ---
