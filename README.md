@@ -9,12 +9,12 @@
 <img src="https://thumbs.gfycat.com/MeagerLonelyBluebreastedkookaburra-max-1mb.gif" align="right" alt="GIF" height="220px">
 
 <br>
-  
-- 🏳️‍🌈 LGBTQIA+!!
-- 📚 I already studied at Trybe
-- 💼 And I'm working at [Croct](https://croct.com/)!! :DDD
+
+- 💼 I'm working at [Croct](https://croct.com/)!! :DDD  
+- 📚 And already studied at Trybe
 - 👨‍💻 Looking to be a great developer to help those who I sympathize
 - 📚 Right now I'm exploring `PHP` and studying data structures 🚀
+- 🏳️‍🌈 LGBTQIA+!!
 - 🇧🇷 Also, I'm brazilian! ;) 
 
 ---
