@@ -23,95 +23,21 @@
 
 ## <p align="center">Tools</p>
 
-<p align="center">I've studied / used the following in projects::</p>
-
-### Programming Languages
+<p align="center">I've studied / used the following in projects:</p>
 
 <p align="center">
-  <a href="https://devdocs.io/javascript/" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
   </a>
   <a href="https://docs.python.org/3/" target="_blank">
    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
   </a>
-</p>
-
----
-
-### Front-end:
-
-<p align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
-  </a>
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code> 
-  </a>
-   <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
-   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code> 
-  </a>
-   <a href="https://redux.js.org/" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
-  </a>
-</p>
-
----
-
-### Back-end:
-
-<p align="center">
-   <a href="https://www.mysql.com/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-  </a>
-  <a href="https://www.mongodb.com/pt-br" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-  </a>
-   </a>
-  <a href="https://sequelize.org/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></code>
-  </a>
-  <a href="https://expressjs.com/pt-br/" target="_blank">
-   <code><img height="50px" src="https://camo.githubusercontent.com/4da8fbe32d03f3cd0c099af887ce14d1bff01c3325501bae56bc5ca9563548f9/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246766563746f7269666965642e636f6d253246696d61676573253246657870726573732d6a732d69636f6e2d32302e706e6726663d31266e6f66623d31"></code>
-  </a>
-</p>
-
----
-
-### Quality Assurance:
-
-<p align="center">
-  <a href="https://jestjs.io/docs/getting-started" target="_blank">
-   <code><img height="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
-  </a>
-  <a href="https://docs.cypress.io/" target="_blank">
-   <code><img height="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png"></code>
+ <a href="https://www.php.net/docs.php" target="_blank">
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
  </a>
 </p>
 
 ---
-
-### Others:
-
-<p align="center">
-  <a href="https://git-scm.com/doc" target="_blank">
-   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  </a>
-  <a href="https://github.com/denis-rossati" target="_blank">
-   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  </a>
-  <a href="https://www.heroku.com/" target="_blank" >
-   <code><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"></code>
-  </a>
-</p>
-
----
-
 
 ## <p align="center">Contact me :D</p>
 
@@ -135,7 +61,8 @@
 </p>
  
 ---
-I like these cool graphics
+
+I like graphics :B
 
 <p align="center">
   <img heigth="200px" src="https://github-readme-stats.vercel.app/api?username=denis-rossati&theme=vue&show_icons=true" />
