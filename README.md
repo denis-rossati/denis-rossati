@@ -10,6 +10,8 @@
 
 <br>
 
+<br>
+
 - 💼 I'm working at [Croct](https://croct.com/)!! :DDD  
 - 📚 And already studied at Trybe
 - 👨‍💻 Looking to be a great developer to help those who I sympathize
