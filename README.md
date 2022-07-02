@@ -39,8 +39,6 @@
 
 ---
 
-## <p align="center">Contact me :D</p>
-
 <p align="center">
  <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
