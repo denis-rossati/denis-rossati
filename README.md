@@ -4,7 +4,7 @@
  <a href="https://ibb.co/pnMwdZ4"><img src="https://i.ibb.co/KmKpgXD/Sem-t-tulo-1.gif" border="0"></a> 
 </p>
 
-<img src="https://thumbs.gfycat.com/MeagerLonelyBluebreastedkookaburra-max-1mb.gif" align="right" alt="GIF" height="400px">
+<img src="https://thumbs.gfycat.com/MeagerLonelyBluebreastedkookaburra-max-1mb.gif" align="right" alt="GIF" height="300px">
 
 <br>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## <p align="center">Let's talk ☕👁️👄👁️💅</p>
+### <p align="center">Let's talk ☕👁️👄👁️💅</p>
  
 <p align="center">
  <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" >
@@ -33,9 +33,6 @@
  </a>
  <a href="https://twitter.com/chubby_cows" target="_blank" >
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://t.me/Dpdkekdmdk" target="_blank" >
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
  </a>
  <a href="https://discord.com/users/828752326001033276" target="_blank" >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
