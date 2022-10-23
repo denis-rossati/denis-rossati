@@ -25,7 +25,7 @@
 
 ---
 
-### <p align="center">Let's talk ☕👁️👄👁️💅</p>
+### <p align="center">Contact me</p>
  
 <p align="center">
  <a href="https://www.linkedin.com/in/denis-rossati/" target="_blank" >
