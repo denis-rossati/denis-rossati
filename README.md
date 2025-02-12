@@ -3,8 +3,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <a href="https://go.dev/doc/" target="_blank">
+   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
   </a>
  <a href="https://www.php.net/docs.php" target="_blank">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
